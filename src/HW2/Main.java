@@ -6,7 +6,7 @@ import HW2.exceptions.MyArraySizeException;
 public class Main {
     public static void main(String[] args) {
         String[][] arr = {
-                {"1", "1", "1", "1"},
+                {"1", "1", "1", "4"},
                 {"1", "1", "1", "1"},
                 {"1", "1", "1", "1"},
                 {"1", "1", "1", "2"},
